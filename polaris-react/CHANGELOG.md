@@ -1,5 +1,11 @@
 # Changelog
 
+## 13.5.0
+
+### Minor Changes
+
+- [#12118](https://github.com/Shopify/polaris/pull/12118) [`5fcca651f`](https://github.com/Shopify/polaris/commit/5fcca651f5b2f16c83569e6934b0884df681b7ed) Thanks [@kyledurand](https://github.com/kyledurand)! - Added transition delay to Collapsible
+
 ## 13.4.0
 
 ### Minor Changes
